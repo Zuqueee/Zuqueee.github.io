@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# editores
+.vscode/
+.idea/
+*.swp
+
+# exports locais (o PDF é gerado pelo Chrome, não versionado)
+*.pdf
+*.bak
+index.html.bak
